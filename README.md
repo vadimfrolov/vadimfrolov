@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif?1460579133" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif?1460579133" width="30"/> Hi! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Vadim, Frontend developer from <img src="https://cdn.countryflags.com/thumbs/russia/flag-round-250.png" width="13"/> <b>Moscow, Russia</b>. </p>
 
