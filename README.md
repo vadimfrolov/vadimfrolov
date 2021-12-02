@@ -16,7 +16,8 @@
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e" />
   <img alt="Testing Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white" />
-  
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
+  <img alt="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0" />
 </p>
 
 ##### BIO
