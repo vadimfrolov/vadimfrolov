@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif?1460579133" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Vadim, Frontend developer from <img src="https://as2.ftcdn.net/v2/jpg/02/41/90/31/1000_F_241903127_1XyqcUFVYjKCZg0GjqarqGTFrxR4A3j2.jpg" width="13"/> <b>Moscow, Russia</b>. </p>
+<p>Welcome to my page! </br> I'm Vadim, Frontend developer from <img src="https://cdn.countryflags.com/thumbs/russia/flag-round-250.png" width="13"/> <b>Moscow, Russia</b>. </p>
 
 <h3>Things I code with</h3>
 <p>
