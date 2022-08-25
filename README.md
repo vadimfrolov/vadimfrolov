@@ -27,7 +27,7 @@
 
 ##### BIO
 
-- 💻 I'm currently working at **X5 Retail Group**
+- 💻 I'm currently working at **SlidePresenter**
 - 👷 Fun fact: Before web-development I was Civil Engineer for 10 years 
 
 <h3>Where to find me</h3>
