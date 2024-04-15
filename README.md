@@ -4,7 +4,7 @@
   
   My personal [website](https://vadimf.netlify.app/).
 
-
+I like to talk and listen to people, create hypotheses, build prototypes, and deliver the best features.
 
 <h3>Things I code with</h3>
 <p>
