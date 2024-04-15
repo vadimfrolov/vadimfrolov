@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif?1460579133" width="30"/> Hi! Welcome to my page!
 
-  I'm Vadim, Software Engineer
+  I'm Vadim, Software Engineer since 2018
   
   My personal [website](https://vadimf.netlify.app/).
 
@@ -28,6 +28,7 @@ I like to talk and listen to people, create hypotheses, build prototypes, and de
 ##### BIO
 
 - 💻 I'm currently working at **SlidePresenter**
+- 🎞️ I know a lot about movies
 - 👷 Fun fact: Before web-development I was Civil Engineer for 7+ years 
 
 <h3>Where to find me</h3>
