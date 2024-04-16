@@ -27,7 +27,7 @@ I like to talk and listen to people, create hypotheses, build prototypes, and de
 
 ##### BIO
 
-- 💻 I'm currently working at **SlidePresenter**
+- 💻 I'm currently working at [**SlidePresenter**](https://www.slidepresenter.com/en/)
 - 🎞️ I know a lot about movies
 - 👷 Fun fact: Before web-development I was Civil Engineer for 7+ years 
 
