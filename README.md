@@ -4,7 +4,7 @@
   
   My personal [website](https://vadimfr.netlify.app/).
 
-I like to talk and listen to people, create hypotheses, build prototypes, and deliver the best features.
+I like to talk and listen to people, build prototypes, and deliver the best solutions.
 
 <h3>Things I code with</h3>
 <p>
