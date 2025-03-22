@@ -2,7 +2,7 @@
 
   I'm Vadim, Software Engineer since 2018
   
-  My personal [website](https://vadimf.netlify.app/).
+  My personal [website](https://vadimfr.netlify.app/).
 
 I like to talk and listen to people, create hypotheses, build prototypes, and deliver the best features.
 
